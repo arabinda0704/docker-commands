@@ -1,0 +1,4 @@
+docker pull
+docker start
+docker run
+docker push
